@@ -18,8 +18,7 @@ div{
 }
 
 h1{
-    background-color: black;
-    color:white;
+    color: white;
     text-align: center;
     height: 100px;
     font-size: 100px ;
@@ -30,6 +29,8 @@ h1{
     color: white;
     display: inline-block;
     font-size: 25px;
+   
+    
 }
 
 #about{
@@ -39,49 +40,52 @@ h1{
 }
 
 #home{
-    color: white;
+    color: whites;
     display: inline-block;
     font-size: 25px;
 }
 
-#education{
-    color:white;
-    font-size: 50px;
-    text-align: left;
-    display:block;
+#firstProject{
+    background-color: teal;
+    display: block;
+}
+
+#firstProjectHeader{
     background-color: blueviolet;
-}
-
-#educationList{
-    color:white;
-    font-size: 25px;
-    text-align: left;
-}
-
-#workExperience{
-    color:white;
     font-size: 50px;
-    text-align: left;
-    display:block;
+    color:white;
+}
+
+#firstProjectParagraph{
+    color:white;
+}
+
+#secondProject{
+    background-color:teal ;
+    display: block;
+}
+
+#secondProjectHeader{
     background-color: blueviolet;
-}
-
-#workList{
-    color:white;
-    font-size: 25px;
-    text-align: left;
-}
-
-#reference{
-    color:white;
     font-size: 50px;
-    text-align: left;
-    display:block;
-    background-color: blueviolet;
+    color:white;
 }
 
-#referenceList{
+#secondProjectParagraph{
     color:white;
-    font-size: 25px;
-    text-align: left;
+}
+
+#thirdProject{
+    background-color:teal ;
+    display: block;
+}
+
+#thirdProjectHeader{
+    background-color: blueviolet;
+    font-size: 50px;
+    color:white;
+}
+
+#thirdProjectParagraph{
+    color:white
 }
